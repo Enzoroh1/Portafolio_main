@@ -2,7 +2,7 @@ export const translations = {
   esp: {
     home: {
       homeText1: "Hola, mi nombre es",
-      homeText2: "Soy desarrollador web",
+      homeText2: "Fronted Developer",
     },
     navBar: {
       inicio: "inicio",
@@ -15,7 +15,7 @@ export const translations = {
       title: "Sobre mi",
       subtitle: "Desarrollador Web",
       description:
-        "Mi nombre es Enzo Roh, Soy Estudiante de la Tecnicatura Universitaria en Programación, Frontend Developer enfocado en Desarrollo Web y Desarrollo de Aplicaciones Mobiles. Desarrollador frontend, con experiencia en diseño y mantenimiento de sitios web. Dominio de lenguajes, programas y plataformas. Trabajo en conjunto con emprendimientos, desempeñándome como freelancer. Mi objetivo es conseguir un puesto laboral dentro del marco de mis estudios y habilidades, para así adquirir mayor experiencia y conocimientos, comprometiéndome con la empresa y aportar al crecimiento de la misma. ",
+        "Mi nombre es Enzo Roh, Tecnico en Programacion, recibido en la Universidad Tecnologica Nacional (Tecnicatura Universitaria en Programación), enfocado en Desarrollo Web con experiencia en diseño y mantenimiento de sitios web. Dominio de lenguajes, programas y plataformas. Trabajo en conjunto con emprendimientos, desempeñándome como freelancer. Mi objetivo es conseguir un puesto laboral dentro del marco de mis estudios y habilidades, para así adquirir mayor experiencia y conocimientos, comprometiéndome con la empresa y aportar al crecimiento de la misma. ",
       download: "Descargar CV",
     },
     services: {
@@ -23,7 +23,7 @@ export const translations = {
       webDesing: {
         title: "Desarrollo Web",
         description:
-          "Experience working on CSS, JavaScript, ReactJs, NodeJs, SQL among other technologies in the sector. With creative thinking, problem solving, teamwork, communication and adaptability.",
+          "Experiencia trabajando en CSS, JavaScript, ReactJs, NodeJs, SQL entre otras tecnologías del sector. Con pensamiento creativo, resolución de problemas, trabajo en equipo, comunicación y adaptabilidad.",
       },
       uiuxDesing: {
         title: "Desarrollo WordPress",
@@ -43,14 +43,14 @@ export const translations = {
           "Portafolio Web Personal, Construido con HTML, CSS Y JS, React. Ademas de usar Bootstrap para darle un mejor estilo",
       },
       countries: {
-        title: "Grupo El Fresno",
+        title: "Integral Service",
         description:
-          "Mantenimiento y actualizacion sobre la pagina 'Grupo El Fresno', importante empresa familiar de la zona que comercializa en el sector avicola",
+          "Empresa con más de 25 años de trayectoria como proveedores de repuestos y accesorios de electrodomésticos.",
       },
       videogames: {
         title: "MicroIngenieria",
         description:
-          "Esta página es un Proyecto Grupal para la Carrera Tecnicatura en Programacion(TUP). Desarrollado con WordPress.",
+          "Portafolio Web Personal, construido con WordPress utilizando el editor visual Divi.",
       },
       pokemon: {
         title: "MicroIngenieria",
