@@ -185,7 +185,7 @@
   -webkit-animation-name: run;
   -webkit-animation-duration: 3s;
   background-color: #191919;
-  width: 80%;
+  /* width: 80%; */
 }
 
 .spanLogo {

@@ -16,6 +16,7 @@ function App() {
   const inicio = useRef();
   const app = useRef();
   const { theme } = useTheme();
+  //Nuevo comentario mas este
 
   // useEffect(() => {
   //   if (theme === "dark") {

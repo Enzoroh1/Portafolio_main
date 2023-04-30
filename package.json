@@ -1,6 +1,6 @@
 {
-  "name": "portafolio_enzo_roh",
-  "version": "0.0.6",
+  "name": "clear",
+  "version": "0.0.7",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.7.0",
@@ -57,15 +57,13 @@
   "description": "terminado 9/11",
   "main": "index.js",
   "devDependencies": {},
-  "author": "",
+  "author": "Enzo escritorio",
   "license": "ISC",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Enzoroh1/Portafolio_v1.git"
   },
-  "keywords": [
-    ""
-  ],
+  "keywords": [],
   "bugs": {
     "url": "https://github.com/Enzoroh1/Portafolio_v1/issues"
   }
