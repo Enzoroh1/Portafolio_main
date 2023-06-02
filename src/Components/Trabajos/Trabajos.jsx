@@ -4,7 +4,7 @@ import pokemon from "../../Assets/trabajos/Captura de pantalla 2022-10-12 190024
 import countries from "../../Assets/trabajos/countries.png";
 import programax from "../../Assets/trabajos/programax.png";
 import videogames from "../../Assets/trabajos/videogames.png";
-// import bikeTraining from "../../Assets/trabajos/bikeTraining.png";
+import bikeTraining from "../../Assets/trabajos/bikeTraining.png";
 import useObserver from "../../Hooks/useObserver";
 import useLanguaje from "../../Hooks/useLanguaje";
 import { BsChevronDoubleUp } from "react-icons/bs";
@@ -125,7 +125,7 @@ export default function Trabajos({ trabajos }) {
             </div>
 
 
-            {/*Proyecto 5
+            {/* Proyecto 5 */}
             <div className={style.trabajo}>
               <img
                 src={bikeTraining}
@@ -139,21 +139,21 @@ export default function Trabajos({ trabajos }) {
                 <div className={style.linksTrabajos}>
                   <a
                     target="_blank"
-                    href="https://durandotraining.vercel.app/"
+                    href="https://soporteremoto.tech/"
                     rel="noreferrer"
                   >
                     <i className="fa-solid fa-arrow-up-right-from-square"></i>
                   </a>
-                  <a
+                  {/* <a
                     target="_blank"
                     href="https://github.com/RamiroFerradas/BIKE-TRAINING.git"
                     rel="noreferrer"
                   >
                     <i className="fab fa-github"></i>
-                  </a>
+                  </a> */}
                 </div>
               </div>
-            </div> */}
+            </div>
           </div>
         </div>
       </div>

@@ -5,18 +5,19 @@ import Home from "./Components/Home/Home";
 import NavBar from "./Components/NavBar/NavBar";
 import Servicios from "./Components/Servicios/Servicios";
 import Trabajos from "./Components/Trabajos/Trabajos";
+import Apps from "./Components/Apps/Apps";
 import style from "./App.module.css";
 import useTheme from "./Hooks/useTheme";
 
 function App() {
   const trabajos = useRef();
+  const apps = useRef();
   const contacto = useRef();
   const about = useRef();
   const servicios = useRef();
   const inicio = useRef();
   const app = useRef();
   const { theme } = useTheme();
-  //Nuevo comentario mas este
 
   // useEffect(() => {
   //   if (theme === "dark") {
@@ -47,6 +48,7 @@ function App() {
         <About about={about} />
         <Servicios servicios={servicios} />
         <Trabajos trabajos={trabajos} />
+        <Apps apps={apps}/>
         <Contacto contacto={contacto} />
       </section>
     </div>

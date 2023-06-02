@@ -58,9 +58,9 @@ export const translations = {
           "Esta página es un Proyecto Grupal para la Carrera Tecnicatura en Programacion(TUP). Desarrollado con WordPress.",
       },
       bikeTraining: {
-        title: "Bike Training",
+        title: "Soporte Remoto",
         description:
-          "Aplicacion en desarrollo, donde el proposito es poder crear un entrenamiento semanal para cada alumno para una escuela de ciclismo y poder descargarlo en forma de planilla de excel.",
+          "Aplicacion web desarrollada con WordPress, en conjunto con dos ayudantes mas, realizamos soporte remoto a empresas",
       },
     },
     contact: {
