@@ -1,6 +1,6 @@
 {
   "name": "clear",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.7.0",

@@ -15,7 +15,7 @@ export const translations = {
       title: "Sobre mi",
       subtitle: "Desarrollador Web",
       description:
-        "Mi nombre es Enzo Roh, Tecnico en Programación, recibido en la Universidad Tecnologica Nacional (Tecnicatura Universitaria en Programación), enfocado en Desarrollo Web con experiencia en diseño y mantenimiento de sitios web. Dominio de lenguajes, programas y plataformas. Trabajo en conjunto con emprendimientos, desempeñándome como freelancer. Mi objetivo es conseguir un puesto laboral dentro del marco de mis estudios y habilidades, para así adquirir mayor experiencia y conocimientos, comprometiéndome con la empresa y aportar al crecimiento de la misma. ",
+        "Mi nombre es Enzo Roh, Técnico en Programación, recibido en la Universidad Tecnológica Nacional (Tecnicatura Universitaria en Programación), enfocado en Desarrollo Web con experiencia en diseño y mantenimiento de sitios web. Dominio de lenguajes, programas y plataformas. Trabajo en conjunto con emprendimientos, desempeñándome como freelancer. Mi objetivo es conseguir un puesto laboral dentro del marco de mis estudios y habilidades, para así adquirir mayor experiencia y conocimientos, comprometiéndome con la empresa y aportar al crecimiento de la misma.",
       download: "Descargar CV",
     },
     services: {
