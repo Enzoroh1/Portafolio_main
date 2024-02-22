@@ -6,24 +6,24 @@ export const translations = {
     },
     navBar: {
       inicio: "inicio",
-      Sobre_mi: "Sobre mi",
-      Servicios: "Servicios",
+      Sobre_mi: "Sobre mí",
+      Servicios: "Habilidades",
       Trabajos: "Trabajos",
       Contacto: "Contacto",
     },
     about: {
-      title: "Sobre mi",
+      title: "Sobre mí",
       subtitle: "Desarrollador Web",
       description:
         "Mi nombre es Enzo Roh, Técnico en Programación, recibido en la Universidad Tecnológica Nacional (Tecnicatura Universitaria en Programación), enfocado en Desarrollo Web con experiencia en diseño y mantenimiento de sitios web. Dominio de lenguajes, programas y plataformas. Trabajo en conjunto con emprendimientos, desempeñándome como freelancer. Mi objetivo es conseguir un puesto laboral dentro del marco de mis estudios y habilidades, para así adquirir mayor experiencia y conocimientos, comprometiéndome con la empresa y aportar al crecimiento de la misma.",
       download: "Descargar CV",
     },
     services: {
-      title: "Mis Servicios",
+      title: "Mis habilidades",
       webDesing: {
         title: "Desarrollo Web",
         description:
-          "Experiencia trabajando en CSS, JavaScript, ReactJs, NodeJs, SQL entre otras tecnologías del sector. Con pensamiento creativo, resolución de problemas, trabajo en equipo, comunicación y adaptabilidad.",
+          " Experiencia trabajando en CSS, JavaScript, ReactJS, Node.js, SQL, entre otras tecnologías del sector. Con pensamiento creativo, resolución de problemas, trabajo en equipo, comunicación y adaptabilidad.",
       },
       uiuxDesing: {
         title: "Desarrollo WordPress",
@@ -60,7 +60,7 @@ export const translations = {
       bikeTraining: {
         title: "Soporte Remoto",
         description:
-          "Aplicacion web desarrollada con WordPress, en conjunto con dos ayudantes mas, realizamos soporte remoto a empresas",
+          "Aplicación web desarrollada con WordPress, en conjunto con dos ayudantes más, realizamos soporte remoto a empresas",
       },
     },
     contact: {
@@ -82,7 +82,7 @@ export const translations = {
     navBar: {
       inicio: "Home",
       Sobre_mi: "About me",
-      Servicios: "Services",
+      Servicios: "Skills",
       Trabajos: "Works",
       Contacto: "Contact",
     },
