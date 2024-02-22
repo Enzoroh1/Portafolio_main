@@ -30,7 +30,7 @@ export default function Trabajos({ trabajos }) {
             className={intersecting ? style.trabajos_lista : style.trabajosOff}
           >
             {/* Proyecto 1 */}
-            <div className={style.trabajo}>
+            {/* <div className={style.trabajo}>
               <img
                 src={programax}
                 className={style.imgTrabajos}
@@ -57,9 +57,9 @@ export default function Trabajos({ trabajos }) {
                   </a>
                 </div>
               </div>
-            </div>
+            </div> */}
 
-            {/* Proyecto 2 */}
+            {/* Proyecto 2
             <div className={style.trabajo}>
               <img
                 src={videogames}
@@ -80,51 +80,8 @@ export default function Trabajos({ trabajos }) {
                   </a>
                 </div>
               </div>
-            </div>
-           
-            {/* Proyecto 3 */}
-            <div className={style.trabajo}>
-              <img
-                src={countries}
-                className={style.imgTrabajos}
-                alt="countries"
-              />
-              <div className={style.layer}>
-                <BsChevronDoubleUp className={style.arrow} />
-                <h3>{text.work.countries.title}</h3>
-                <p>{text.work.countries.description}</p>
-                <div className={style.linksTrabajos}>
-                  <a
-                    target="_blank"
-                    href="https://integralservice.com.ar/"
-                    rel="noreferrer"
-                  >
-                    <i className="fa-solid fa-arrow-up-right-from-square"></i>
-                  </a>
-                </div>
-              </div>
-            </div>
-
-            {/* Proyecto 4 */}
-            <div className={style.trabajo}>
-              <img src={pokemon} alt="pokemon" className={style.imgTrabajos} />
-              <div className={style.layer}>
-                <BsChevronDoubleUp className={style.arrow} />
-                <h3>{text.work.pokemon.title}</h3>
-                <p>{text.work.pokemon.description}</p>
-                <div className={style.linksTrabajos}>
-                  <a
-                    target="_blank"
-                    href="https://microingenieria.com.ar/"
-                    rel="noreferrer"
-                  >
-                    <i className="fa-solid fa-arrow-up-right-from-square"></i>
-                  </a>
-                </div>
-              </div>
-            </div>
-
-
+            </div> */}
+            
             {/* Proyecto 5 */}
             <div className={style.trabajo}>
               <img
@@ -151,6 +108,48 @@ export default function Trabajos({ trabajos }) {
                   >
                     <i className="fab fa-github"></i>
                   </a> */}
+                </div>
+              </div>
+            </div>
+           
+            {/* Proyecto 3 */}
+            <div className={style.trabajo}>
+              <img
+                src={countries}
+                className={style.imgTrabajos}
+                alt="countries"
+              />
+              <div className={style.layer}>
+                <BsChevronDoubleUp className={style.arrow} />
+                <h3>{text.work.countries.title}</h3>
+                <p>{text.work.countries.description}</p>
+                <div className={style.linksTrabajos}>
+                  <a
+                    target="_blank"
+                    href="https://integral.marketinados.com/"
+                    rel="noreferrer"
+                  >
+                    <i className="fa-solid fa-arrow-up-right-from-square"></i>
+                  </a>
+                </div>
+              </div>
+            </div>
+
+            {/* Proyecto 4 */}
+            <div className={style.trabajo}>
+              <img src={pokemon} alt="pokemon" className={style.imgTrabajos} />
+              <div className={style.layer}>
+                <BsChevronDoubleUp className={style.arrow} />
+                <h3>{text.work.pokemon.title}</h3>
+                <p>{text.work.pokemon.description}</p>
+                <div className={style.linksTrabajos}>
+                  <a
+                    target="_blank"
+                    href="https://microingenieria.com.ar/"
+                    rel="noreferrer"
+                  >
+                    <i className="fa-solid fa-arrow-up-right-from-square"></i>
+                  </a>
                 </div>
               </div>
             </div>
